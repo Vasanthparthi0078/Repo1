@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7286-F508
+
+ Directory of C:\Users\Vasanth.Parthiban\Desktop\step
+
+09-08-2023  12:02    <DIR>          .
+09-08-2023  11:58    <DIR>          ..
+09-08-2023  12:02                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  191,109,177,344 bytes free
